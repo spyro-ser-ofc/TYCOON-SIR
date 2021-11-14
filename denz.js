@@ -856,9 +856,17 @@ reply(String(e))
  if (rspndbutton) { if (rspndbutton == 'groupmenu')
  {denz.sendMessage(from, grpm(), text, {quoted: mek})}} 		
  if (rspndbutton) { if (rspndbutton == 'makermenu')
- {denz.sendMessage(from, mkrm(), text, {quoted: mek})}} 		
+ {denz.sendMessage(from, mkrm(), text, {quoted: mek})}} 
+ if (rspndbutton) { if (rspndbutton == 'about')
+ {denz.sendMessage(from, mkrm(), text, {quoted: mek})}}
+ if (rspndbutton) { if (rspndbutton == 'status')
+ {denz.sendMessage(from, mkrm(), text, {quoted: mek})}}
+ if (rspndbutton) { if (rspndbutton == 'mode')
+ {denz.sendMessage(from, mkrm(), text, {quoted: mek})}}
  if (rspndbutton) { if (rspndbutton == 'othermenu')
- {denz.sendMessage(from, otrm(), text, {quoted: mek})}} 		
+ {denz.sendMessage(from, otrm(), text, {quoted: mek})}}
+ if (rspndbutton) { if (rspndbutton == 'autorespon')
+ {denz.sendMessage(from, mkrm(), text, {quoted: mek})}}
  if (rspndbutton) { if (rspndbutton == 'ownermenu')
  {denz.sendMessage(from, ownm(), text, {quoted: mek})}} 		 		
  if (rspndbutton) { if (rspndbutton == 'help')
@@ -1130,7 +1138,10 @@ ${""}
 ,{"title":"owner","rowId":"0"}
  ,{"title":"ping","rowId":"0"}
  ,{"title":"donate","rowId":"0"}
-  ,{"title":"credit","rowId":"0"}
+ ,{"title":"mode","rowId":"0"}
+ ,{"title":"autorespon","rowId":"0"}
+ ,{"title":"status","rowId":"0"}
+ ,{"title":"about","rowId":"0"}
 ]}]}},{});denz.relayWAMessage(pi,{waitForAck:true})
 
 break
