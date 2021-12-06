@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/p044747.jpeg" alt="TYCOON" width="300" />
 
 # TYCOON SER
-
+# Deploy To Railway
+  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAmeen-SER%2FTYCOON-SIR&referralCode=wTuGHL)
 >
 >
 >
