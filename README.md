@@ -46,5 +46,5 @@
 
 * [`DEPLOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/Ameen-SER/TYCOON-SIR/)
     
-  (https://heroku.com/deploy?template=https://github.com/Ameen-SER/TYCOON-SIR/)
+  
   
