@@ -39,11 +39,9 @@
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys) 
-* [`AMEEN SER`](https://github.com/Dilmano) 
+* [`AMEEN SER`](https://github.com/Ameen-Ser) 
 
 
-# DEPLOY 
-(https://heroku.com/deploy?template=https://github.com/Ameen-SER/TYCOON-SIR/)
-    
+#
   
   
