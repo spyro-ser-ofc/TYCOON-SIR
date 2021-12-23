@@ -24,7 +24,7 @@
 ```
 ## HOW TO INSTALL ON PC
 ```bash
-> git clone https://github.com/Dilmano/TYCOON-SER
+> git clone https://github.com/Ameen-SER/TYCOON-SIR
 > cd TYCOON-SER
 > npm install terminal-kit
 > npm i
@@ -42,7 +42,8 @@
 * [`AMEEN SER`](https://github.com/Dilmano) 
 
 
-* [`DEPLOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/Ameen-SER/TYCOON-SIR/)
+# DEPLOY 
+(https://heroku.com/deploy?template=https://github.com/Ameen-SER/TYCOON-SIR/)
     
   
   
