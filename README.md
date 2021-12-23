@@ -14,7 +14,7 @@
 ## HOW TO INSTALL ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Dilmano/TYCOON-SER
+> git clone https://github.com/Ameen-Ser/TYCOON-SIR
 > cd TYCOON-SER
 > npm i -g npm@6.14.14
 > npm install @adiwajshing/bailyes
