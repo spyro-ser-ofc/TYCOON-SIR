@@ -42,6 +42,22 @@
 * [`AMEEN SER`](https://github.com/Ameen-Ser) 
 
 
-#
+## Developers
+  <div align="center">
+
+  [![Ameen-SER](https://telegra.ph/file/8578d79105f9372825b79.jpg)](https://github.com/Ameen-SER)[`Ameen-SER`](https://github.com/Ameen-SER)
+----|
+   `Re developer, Bug Fixes, Modules, Commits`
+
+  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+----|
+   `Bug Fixes, Modules, Commits`
   
-  
+  [![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
+----|
+   `Bug Fixes, Modules`
+
+
+                                  
+  </div
+
