@@ -67,7 +67,7 @@
 ----|
    `Re developer, Bug Fixes, Modules, Commits`
   
-[![W4LK36](https://i.imgur.com/WrBdapW.jpeg)](https://github.com/aneeslub)[`W4LK36`](https://github.com/aneeslub)
+[![W4LK36](https://i.imgur.com/WrBdapW.jpeg)](https://github.com/Aneeswalker)[`W4LK36`](https://github.com/Aneeswalker)
 ----|
    `Re developer, Bug Fixes, Modules, Commits`
 
