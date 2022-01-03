@@ -66,6 +66,11 @@
   [![Ameen-SER](https://telegra.ph/file/8578d79105f9372825b79.jpg)](https://github.com/Ameen-SER)[`Ameen-SER`](https://github.com/Ameen-SER)
 ----|
    `Re developer, Bug Fixes, Modules, Commits`
+  
+[![W4LK36](https://i.imgur.com/WrBdapW.jpeg)](https://github.com/aneeslub)[`W4LK36`](https://github.com/aneeslub)
+----|
+   `Re developer, Bug Fixes, Modules, Commits`
+
 
   [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
 ----|
@@ -73,7 +78,7 @@
   
   [![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
 ----|
-   `Bug Fixes, Modules`
+   `Modifying as public`
 
 
                                   
