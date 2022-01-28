@@ -1,7 +1,7 @@
 {
-  "name": "ameen-ser",
+  "name": "patch-ser",
   "version": "0.0.1",
-  "description": "synzx",
+  "description": "patch",
   "main": "node index",
   "directories": {
     "lib": "lib"
